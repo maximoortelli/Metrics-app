@@ -1,6 +1,6 @@
 import React from 'react';
 import { useSelector } from 'react-redux'; // Importamos useSelector desde react-redux
-import '../styles/DetailsPage.css';
+import './DetailsPage.css';
 
 const DetailsPage = () => {
   // Accedemos a los datos del país desde el estado de Redux
