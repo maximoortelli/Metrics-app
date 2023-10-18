@@ -181,8 +181,8 @@
 
 👤 **Maximo Ortelli**
 
--   GitHub: [@githubhandle](https://github.com/maximoortelli)
--   LinkedIn: [LinkedIn](https://www.linkedin.com/in/maximo-ortelli-rueda/)
+-   GitHub: [@MaximoOrtelli](https://github.com/maximoortelli)
+-   LinkedIn: [MaximoOrtelli](https://www.linkedin.com/in/maximo-ortelli-rueda/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
