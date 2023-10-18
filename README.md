@@ -226,6 +226,6 @@
 
 ## 📝 License <a name="license"></a>
 
-> This project is [MIT](/LICENSE).
+> This project is [MIT](LICENSE.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
